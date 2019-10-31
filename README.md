@@ -8,17 +8,17 @@
     .
     ├── assets         
     |     ├── bootstrap
-    |     |       ├── css /*.css
-    |     |       └── js  /*.js
+    |     |       ├── css       **/*.css
+    |     |       └── js        **/*.js
     |     ├── Fontawesome
-    |     |       ├── css       /*.css
-    |     |       ├── js        /*.js
-    |     |       ├── less      /*.less
-    |     |       ├── metadata  /*.yml 
-    |     |       ├── scss      /*.scss
-    |     |       ├── sprites   /*.svg
-    |     |       ├── svgs      /*.svg
-    |     |       ├── webfonts  /*.woff *woff2 *.eot *.svg *.ttf
+    |     |       ├── css       **/*.css
+    |     |       ├── js        **/*.js
+    |     |       ├── less      **/*.less
+    |     |       ├── metadata  **/*.yml 
+    |     |       ├── scss      **/*.scss
+    |     |       ├── sprites   **/*.svg
+    |     |       ├── svgs      **/*.svg
+    |     |       ├── webfonts  **/*.woff *woff2 *.eot *.svg *.ttf
     |     |       └── LICENSE.txt
     |     └── Jquery  
     |     
