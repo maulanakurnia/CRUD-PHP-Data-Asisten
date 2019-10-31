@@ -4,6 +4,12 @@
 1. CRUD
 2. Notifikasi
 
+### Pendukung
+1. Bootstrap v4.3.1 
+2. FontAwesome v4.0
+3. jQuery v3.3.1
+4. popper
+
 ### Struktur Folder
     .
     ├── assets         
